@@ -1,0 +1,42 @@
+h1{
+    margin-left: 200px;
+    font-family: 'Russo One', sans-serif;
+
+}
+h1>.red{
+    color: red;
+}
+h1>.square{
+    color: red;
+}
+
+.kremlin{
+    color: rgb(197, 153, 95);
+}
+
+.metro{
+    color: rgb(175, 175, 38);
+}
+
+.card{
+    align-items: center;
+}
+
+.card-text{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    letter-spacing: 2px;
+    line-height: 28px;
+}
+
+.navbar{
+    font-size: 20px;
+    font-family: 'Changa', sans-serif;
+}
+
+nav ul li a:hover{
+    background-color: darkcyan ;
+    border-radius: 20px 20px 20px 20px;
+    transition: all 1s;
+}
+

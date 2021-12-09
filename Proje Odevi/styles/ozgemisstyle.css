@@ -1,0 +1,81 @@
+.navbar{
+    font-size: 20px;
+    font-family: 'Changa', sans-serif;
+}
+
+nav ul li a:hover{
+    background-color: darkcyan ;
+    border-radius: 20px 20px 20px 20px;
+    transition: all 1s;
+}
+
+
+#name{
+
+    font-family: 'Changa', sans-serif;
+    font-size: 40pt;
+    align-items: center;
+    letter-spacing: 1px;
+}
+
+#p2{
+
+    margin: 150px 0px 100px 550px;
+    font-family: 'Changa', sans-serif;
+    letter-spacing: 1px;
+
+}
+
+#p3{
+    margin: 150px 0px 0px 300px;
+}
+
+#p3 > h2{
+    text-align: center;
+    font-family: 'Zilla Slab', serif;
+    margin:0px 0px 50px 0px ;
+    font-size:2.5rem ;
+}
+
+table{
+    align-items: center;
+    font-size: 17pt;
+    font-family: 'Changa', sans-serif;
+}
+
+#p4{
+    margin: 150px 0px 0px 300px;
+    font-family: 'Changa', sans-serif;
+    letter-spacing: 1px;
+    font-size: 17pt;
+
+}
+
+#p4 > h1{
+    text-align: center;
+    font-family: 'Zilla Slab', serif;
+    margin:100px 0px 50px 0px ;
+}
+
+#p4 > p {
+    margin:50px 0px 120px 0px ;
+}
+
+#p5{
+    margin: 0px 0px 0px 300px;
+    font-family: 'Changa', sans-serif;
+    letter-spacing: 1px;
+    font-size: 17pt;
+}
+
+#p5 > .yetenekadi {
+    text-align: center;
+    font-family: 'Zilla Slab', serif;
+    margin:100px 0px 50px 0px ;
+    font-size:2.5rem ;
+}
+
+#p5 > .yetenekler  {
+    font-family: 'Changa', sans-serif;
+    font-size: 30pt;
+}
